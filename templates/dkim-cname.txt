@@ -1,0 +1,2 @@
+selector1._domainkey  CNAME  selector1-settat-fr._domainkey.ksll.r-v1.dkim.mail.microsoft
+selector2._domainkey  CNAME  selector2-settat-fr._domainkey.ksll.r-v1.dkim.mail.microsoft
